@@ -2,4 +2,5 @@ jobRun
 second line from remote repository
 3 txt and 1 txt now
 .
-edit on master branch
+edit for branch_with_conflicts
+
