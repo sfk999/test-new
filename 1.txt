@@ -3,3 +3,4 @@ second line from remote repository
 3 txt and 1 txt now
 .
 edit for branch_with_conflicts
+
