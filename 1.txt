@@ -4,3 +4,5 @@ second line from remote repository
 .
 edit for branch_with_conflicts
 
+
+12
